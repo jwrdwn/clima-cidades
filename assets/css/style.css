@@ -55,7 +55,8 @@ body {
     outline: none;
     flex: 1;
     border-radius: 8px;
-    background-color: #0138ad;
+    background-color: #0044d8f1;
+    color: #fdfdfd;
 }
 
 ::placeholder {
@@ -64,7 +65,7 @@ body {
 }
 
 .form input:focus {
-    background-color: #fdfdfde1;
+    background-color: #0138ad;
 }
 
 .form button {
