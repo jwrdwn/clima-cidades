@@ -29,7 +29,7 @@ body {
 }
 
 .container {
-    background-color: #0d62d1c5;
+    background-color: #0d62d1cc;
     color: #fdfdfd;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
     padding: 2rem;
@@ -65,7 +65,7 @@ body {
 }
 
 .form input:focus {
-    background-color: #0138ad;
+    background-color: #0138adf1;
 }
 
 .form button {
